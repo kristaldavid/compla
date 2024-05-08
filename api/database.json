@@ -1,0 +1,25 @@
+{
+    "complaints": [
+      {
+        "id": 1,
+        "description": "Nem tölt",
+        "complainant": "Kis Pista",
+        "products": "hajvágó készülék",
+        "type": "Fizikai"
+      },
+      {
+        "id": 2,
+        "description": "Nem kapcsol be",
+        "complainant": "Kis Balázs",
+        "products": "telefon",
+        "type": "Ismeretlen"
+      },
+      {
+        "id": 3,
+        "description": "nem nyitja meg az tiktokot",
+        "complainant": "Nagy Kolompár",
+        "products": "Telefon",
+        "type": "szoftveres"
+      }
+    ]
+  }

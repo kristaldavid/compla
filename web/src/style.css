@@ -1,0 +1,26 @@
+  /*
+* File: style.css
+* Author: Kristál Dávid
+* Copyright: 2024, Kristál Dávid
+* Group: Szoft I-2-N
+* Date: 2024-05-08
+* Github: https://github.com/kristaldavid/
+* Licenc: GNU GPL
+*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+
+h1 {
+  display: inline-block;
+
+}
